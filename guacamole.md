@@ -10,3 +10,4 @@
    *onion
    *hot pepper
 ## Instructions
+Mash the avocado with joy or agression, you decide.
