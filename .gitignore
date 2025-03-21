@@ -1,0 +1,7 @@
+*.png
+receipts/
+.DS_Store
+data.csv
+outputs/
+
+
