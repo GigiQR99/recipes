@@ -9,7 +9,7 @@
 - lime
 - onion
 - hot pepper
-- 
+  
 ## Instructions
 1. Mash the avocado with joy or agression, you decide.
 2. Chop the onion, hot-pepper, cilantro and garlic finely
